@@ -27,6 +27,10 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Raleway', sans-serif;
 }
 
+#ff4 {
+font-family: 'Courier Prime', monospace;
+}
+
 #myPDF {
 	width: 95%;
 	height: 975px;
